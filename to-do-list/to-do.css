@@ -1,0 +1,33 @@
+body {
+    font-family: Montserrat;
+    background-color: rgb(233, 243, 36);
+}
+
+.todo-grid {
+    display: grid;
+    grid-template-columns: 200px 150px 100px;
+}
+
+.add-button {
+    padding: 5px;
+
+}
+
+
+
+.yes-button {
+    background-color: rgb(33, 240, 33);
+    padding: 10px;
+    width: 60px;
+    font-family: Montserrat;
+    cursor: pointer;
+}
+
+.yes-button:hover {
+    background-color: rgb(146, 223, 146);
+}
+
+.schedule {
+    padding: 10px;
+    height: 10px;
+}

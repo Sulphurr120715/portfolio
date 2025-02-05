@@ -1,0 +1,96 @@
+
+body {
+    background-color: black;
+}
+
+.Move {
+    border-radius: 10px;
+    height: 160px;
+    margin-left: 30px;
+    background-color: black;
+    cursor: pointer;
+
+}
+
+.limga {
+    border-radius: 10px;
+    height: 140px;
+    margin-left: 30px;
+    background-color: black;
+}
+
+.Move2 {
+    border-radius: 10px;
+    height: 160px;
+    margin-left: 30px;
+    background-color: black;
+    cursor: pointer;
+
+
+}
+
+
+
+.sigma {
+    border-radius: 10px;
+    height: 160px;
+    margin-left: 30px;
+    background-color: black;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+.Move3 {
+    border-radius: 10px;
+    height: 160px;
+    margin-left: 30px;
+    background-color: black;
+    cursor: pointer;
+}
+
+.diddy {
+    border-radius: 10px;
+    height: 140px;
+    margin-left: 30px;
+    background-color: black;
+
+}
+
+.heading {
+    color: white;
+    font-family: sans-serif;
+    margin-bottom: 30px;
+
+}
+
+.reset-button {
+    display: block;
+    margin-top: 50px;
+    height: 30px;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    margin-left: 25px;
+}
+
+.js-score {
+    color: white;
+    font-family: Montserrat;
+    margin-left: 20px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.js-result {
+    color: white;
+    font-family: Montserrat;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.js-moves {
+    color: white;
+    font-family: Montserrat;
+    margin-left: 15px;
+    margin-top: 30px;
+}
